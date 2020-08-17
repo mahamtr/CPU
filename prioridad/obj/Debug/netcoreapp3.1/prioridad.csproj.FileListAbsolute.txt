@@ -1,0 +1,13 @@
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\prioridad.exe
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\prioridad.deps.json
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\prioridad.runtimeconfig.json
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\prioridad.runtimeconfig.dev.json
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\prioridad.dll
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\prioridad.pdb
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\prioridad.csprojAssemblyReference.cache
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\prioridad.csproj.CoreCompileInputs.cache
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\prioridad.AssemblyInfoInputs.cache
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\prioridad.AssemblyInfo.cs
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\prioridad.dll
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\prioridad.pdb
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\prioridad.genruntimeconfig.cache

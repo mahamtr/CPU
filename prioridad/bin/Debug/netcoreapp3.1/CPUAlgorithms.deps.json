@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CPUAlgorithms/1.0.0": {
+        "dependencies": {
+          "DeepEqual": "2.0.0"
+        },
+        "runtime": {
+          "CPUAlgorithms.dll": {}
+        }
+      },
+      "DeepEqual/2.0.0": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/DeepEqual.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "Microsoft.CSharp/4.5.0": {}
+    }
+  },
+  "libraries": {
+    "CPUAlgorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeepEqual/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f3SSC6jpBHASh9ga92clvuXPNj4uKM7YvEuVlkXcb40Ks7lkQllaRoAz8tLC0vCcpIHV4vxNirmu0458IVas6Q==",
+      "path": "deepequal/2.0.0",
+      "hashPath": "deepequal.2.0.0.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "path": "microsoft.csharp/4.5.0",
+      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
+    }
+  }
+}

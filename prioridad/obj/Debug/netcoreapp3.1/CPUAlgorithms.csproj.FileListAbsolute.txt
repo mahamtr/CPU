@@ -1,0 +1,15 @@
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\CPUAlgorithms.exe
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\CPUAlgorithms.deps.json
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\CPUAlgorithms.runtimeconfig.json
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\CPUAlgorithms.runtimeconfig.dev.json
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\CPUAlgorithms.dll
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\CPUAlgorithms.pdb
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\CPUAlgorithms.csprojAssemblyReference.cache
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\CPUAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\CPUAlgorithms.AssemblyInfo.cs
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\CPUAlgorithms.dll
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\CPUAlgorithms.pdb
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\CPUAlgorithms.genruntimeconfig.cache
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\bin\Debug\netcoreapp3.1\DeepEqual.dll
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\CPUAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Maai Ham\source\repos\prioridad\prioridad\obj\Debug\netcoreapp3.1\CPUAlgorithms.csproj.CopyComplete
